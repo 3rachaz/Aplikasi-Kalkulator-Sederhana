@@ -1,0 +1,269 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.gpd-cnt{
+  padding:0;
+}
+.gpd-header{
+  margin:0;
+}
+body{
+  font-family:Helvetica, serif;
+}
+#ihozu{
+  padding:10px 0 10px 0;
+  font-size:1.5rem;
+  font-weight:300;
+  line-height:1.3em;
+}
+#i21kh{
+  color:#df9419;
+}
+#iqonsz{
+  padding:10px 0 10px 0;
+  font-size:1.5rem;
+  font-weight:300;
+  line-height:1.3em;
+}
+#ikb9j{
+  font-size:60px;
+  margin:0 0 15px 0;
+  font-weight:900;
+  text-transform:uppercase;
+  font-family:Impact, Charcoal, sans-serif;
+  height:100px;
+  min-height:50px;
+}
+#izy7m{
+  padding:0 0 0 0;
+  font-size:0.9rem;
+}
+#iqqo1{
+  min-height:100px;
+  background-color:#da6778;
+  color:#ffffff;
+  height:100px;
+}
+#iost7{
+  height:200px;
+}
+#i9l5c{
+  background-image:url(/img/tpl-img-city-walk.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:cover;
+}
+#ie6zd{
+  min-height:500px;
+  padding:0 0 0 0;
+  display:none;
+}
+#ic1wo{
+  height:100%;
+  flex-direction:column;
+  justify-content:center;
+  padding:10px 35px 10px 35px;
+  color:#555;
+}
+#i2h3r{
+  flex:0 1 auto;
+}
+#i43rq{
+  min-height:500px;
+  padding:0 0 0 0;
+  display:none;
+}
+#ienc7{
+  background-image:url(/img/tpl-img-mount-top.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:cover;
+}
+#iy638{
+  height:100%;
+  flex-direction:column;
+  justify-content:center;
+  padding:10px 35px 10px 35px;
+}
+#ixi2c{
+  flex:0 1 auto;
+}
+#i4g0h{
+  background-color:#8dbb3b;
+  color:#fff;
+}
+#ihrf8{
+  min-height:500px;
+  padding:0 0 0 0;
+  display:none;
+}
+#irtmb{
+  background-image:url(/img/tpl-img-mount-lake-top.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:cover;
+}
+#ivqic{
+  height:100%;
+  flex-direction:column;
+  justify-content:center;
+  padding:10px 35px 10px 35px;
+  color:#555;
+}
+#inrpt{
+  flex:0 1 auto;
+}
+#i4x2g{
+  color:#5da9d0;
+}
+#im94e{
+  padding:10px 0 10px 0;
+  font-size:1.5rem;
+  font-weight:300;
+  line-height:1.3em;
+}
+#i1rph{
+  min-height:500px;
+  padding:0 0 0 0;
+  display:none;
+}
+#i1e8k{
+  background-color:#b95858;
+  color:#fff;
+}
+#iw0zj{
+  height:100%;
+  flex-direction:column;
+  justify-content:center;
+  padding:10px 35px 10px 35px;
+}
+#ihk1j{
+  flex:0 1 auto;
+}
+#ik15d{
+  padding:10px 0 10px 0;
+  font-size:1.5rem;
+  font-weight:300;
+  line-height:1.3em;
+}
+#i5fmy{
+  background-image:url(/img/tpl-img-girl-red-field.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:cover;
+}
+#i5p0r{
+  color:#555;
+  display:none;
+}
+#iekkq{
+  margin-top:0;
+  margin-bottom:15px;
+  margin:0 0 35px 0;
+}
+#ifl6q{
+  text-align:center;
+}
+#imsga{
+  margin:0 0 25px 0;
+  color:#353535;
+  justify-content:center;
+}
+#isw0q{
+  flex:0 1 auto;
+}
+#iunsi{
+  width:32px;
+  height:32px;
+}
+.social-link-footer{
+  display:inline-block;
+  padding:5px;
+  min-width:50px;
+  color:#727272;
+  text-align:center;
+  transition:color 0.3s ease;
+}
+.social-link-footer:hover{
+  color:#d96879;
+}
+#i2h5cz{
+  flex:0 1 auto;
+}
+#ik547{
+  width:32px;
+  height:32px;
+}
+#i58yjj{
+  flex:0 1 auto;
+}
+#ielmmz{
+  width:32px;
+  height:32px;
+}
+#i1fev1{
+  flex:0 1 auto;
+}
+#ivki4x{
+  width:32px;
+  height:32px;
+}
+#ip3zj{
+  background-color:#da6778;
+}
+#ixby4l{
+  display:none;
+}
+#ipxclk{
+  display:none;
+}
+#iojb74{
+  background-color:blue;
+}
+#ijg4f{
+  background-color:#da6778;
+}
+#i61zr{
+  font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+  font-size:15px;
+}
+@media (max-width: 768px){
+  #i3wbh{
+    min-height:300px;
+  }
+  #i9l5c{
+    height:300px;
+  }
+  #ienc7{
+    height:300px;
+  }
+  #i4g0h{
+    min-height:300px;
+    order:2;
+  }
+  #irtmb{
+    height:300px;
+  }
+  #iofq3{
+    min-height:300px;
+  }
+  #i5fmy{
+    height:300px;
+  }
+  #i1e8k{
+    order:2;
+    min-height:300px;
+  }
+}
+@media (max-width: 375px){
+  #ikb9j{
+    font-size:3rem;
+  }
+}
